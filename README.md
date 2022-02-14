@@ -1,4 +1,4 @@
-Official github account of [opensource-philosophy.com](opensource-philosophy.com).
+Official github account of [opensource-philosophy.com](http://opensource-philosophy.com).
 
 <!---
 opensource-philosophy/opensource-philosophy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
